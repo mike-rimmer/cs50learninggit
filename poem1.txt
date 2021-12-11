@@ -2,8 +2,5 @@ roses are red
 violets are blue
 Its starting to make sense
 but, how about you
-<<<<<<< HEAD
-This line added by server!!!
-=======
-This line added by server!!!!!
->>>>>>> ed89b0fe4c0545f580a729ddf631b894ae5292c5
+This line added by server!!!!!!!!
+
