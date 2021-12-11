@@ -1,5 +1,4 @@
 roses are red
 violets are blue
-Its starting to make sence
-This line was added
-This is a second line
+Its starting to make sense
+
